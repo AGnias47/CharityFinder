@@ -9,3 +9,5 @@ The Charity Navigator web interface solves this problem and does so well. It pro
 information on charities. This project serves more of an experimental purpose for getting more familiar with the Rust
 programming language.
 
+## API Documentation
+https://charity.3scale.net/docs/data-api/reference
