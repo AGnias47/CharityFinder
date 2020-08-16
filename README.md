@@ -1,13 +1,11 @@
 # Charity Finder
 
-The intention of this project is to create a program to allow users to find verified charities based on certain keywords
-they enter.
+This program will attempt to create a list of recommended charities for a user based on a series of user inputs.
+
+The intention of this project is to create a program to allow users to find verified charities based on certain
+responses, and how much value they attribute to those responses.
 
 The project will be written in Rust and will utilize the [Charity Navigator data API](https://charity.3scale.net).
-
-The Charity Navigator web interface solves this problem and does so well. It provides a user interface and detailed
-information on charities. This project serves more of an experimental purpose for getting more familiar with the Rust
-programming language.
 
 ## API Documentation
 https://charity.3scale.net/docs/data-api/reference
